@@ -107,3 +107,4 @@ great ideas to get the creativity flowing.
 [a-frame-doc]: "https://aframe.io/docs/0.8.0/introduction/"
 [software-architecture]: "https://en.wikipedia.org/wiki/Software_architecture"
 [previous-lab]: "https://github.com/learn-co-curriculum/entity-component-system"
+<p data-visibility='hidden'>KWK-T2 Objectives</p>
